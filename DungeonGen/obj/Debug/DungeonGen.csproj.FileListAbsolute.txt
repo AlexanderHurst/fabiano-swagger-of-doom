@@ -1,0 +1,6 @@
+C:\Users\100620049\Desktop\rotmg_server\fabiano-swagger-of-doom\DungeonGen\bin\Debug\DungeonGen.dll
+C:\Users\100620049\Desktop\rotmg_server\fabiano-swagger-of-doom\DungeonGen\bin\Debug\DungeonGen.pdb
+C:\Users\100620049\Desktop\rotmg_server\fabiano-swagger-of-doom\DungeonGen\bin\Debug\RotMG.Common.dll
+C:\Users\100620049\Desktop\rotmg_server\fabiano-swagger-of-doom\DungeonGen\obj\Debug\DungeonGen.csprojResolveAssemblyReference.cache
+C:\Users\100620049\Desktop\rotmg_server\fabiano-swagger-of-doom\DungeonGen\obj\Debug\DungeonGen.dll
+C:\Users\100620049\Desktop\rotmg_server\fabiano-swagger-of-doom\DungeonGen\obj\Debug\DungeonGen.pdb
